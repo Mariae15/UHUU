@@ -1,0 +1,25 @@
+body{
+    background-color: peru;
+    text-align: center;
+}
+
+h1{
+    font-family: "Cinzel", serif;
+}
+
+p{
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.secao{
+    border: 5px solid #000000;
+    border-radius: 8px;
+    padding: 30px;
+    margin: 180px;
+    margin-top: 20px;
+}
+

@@ -1,9 +1,19 @@
+.imagem-zoom{
+    width: ;
+    height: 330px ;
+    transition: transform 0.3s;
+}
+.imagem-zoom:hover{
+    transform: scale(1.2);
+}
+
 h1{
     color: rgb(255, 255, 255);
     justify-content: center;
     align-items: center;
     text-align: center;
     padding: 20px;
+    font-family: "Cinzel", serif;
 }
 
 .subtitulo{
@@ -20,10 +30,12 @@ h2{
     align-items: center;
     text-align: center;
     padding: 20px;
+    font-family: "Cinzel", serif;
 }
 
 h3{
     color: white;
+    font-family: "Cinzel", serif;
 }
 
 .navegacao{
